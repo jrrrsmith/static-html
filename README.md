@@ -1,4 +1,4 @@
-# static-html
+# Static HTML Starter Files
 A set of files for starting a static HTML project, using NPM and Gulp.
 
 ## To get started:
