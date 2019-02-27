@@ -4,8 +4,6 @@
 ### Ignore VSCode settings
 .vscode
 
-### Ignore Node Modules
-/node_modules
-
-### Ignore Built CSS & JS
-/build
+### Ignore Built CSS
+.sass-cache
+css
